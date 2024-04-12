@@ -5,14 +5,14 @@
   "theme": {
     "colors": {
       "button_background": [255, 255, 255],
-      "frame": [191, 63, 217, 0.5],
+      "frame": [52, 223, 235, 0.5],
       "frame_inactive": [255, 255, 255],
       "ntp_text": [255, 255, 255],
       "ntp_link": [36, 70, 0],
       "ntp_section": [255, 255, 200],
       "tab_text": [50, 50, 50],
       "tab_background_text": [255, 255, 255],
-      "toolbar": [10, 10, 10],
+      "toolbar": [37, 86, 97],
       "toolbar_button_icon": [204, 204, 204],
       "toolbar_text": [204, 204, 204]
     },
